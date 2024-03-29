@@ -1,0 +1,48 @@
+{
+  "users": {
+    "id": 1,
+    "name": "Akshay",
+    "address": null
+  },
+  "cart": [
+    {
+      "name": "Anti-Bac Wet Wipes, 60 Count (2x30 Wipes)",
+      "id": "3240",
+      "price": 250,
+      "count": 1
+    },
+    {
+      "name": "Optimum Nutrition (ON) Gold Standard 100% Whey Protein Double Rich Chocolate Flavour Powder, 5 lb",
+      "id": "4469",
+      "price": 1050,
+      "count": 1
+    },
+    {
+      "id": "949",
+      "name": "Hand Sanitizer Liquid Spray 100 ml, 3 Count",
+      "price": 150
+    },
+    {
+      "id": "999",
+      "name": "Cough Drops Lozenges, 25 Count",
+      "price": 10
+    }
+  ],
+  "recommend": [
+    {
+      "name": "Premium Lemon Grass Handwash, 500 ml (2x250 ml)",
+      "id": "1240",
+      "price": 99
+    },
+    {
+      "name": "Cough Drops Lozenges, 25 Count",
+      "id": "999",
+      "price": 10
+    },
+    {
+      "name": "Hand Sanitizer Liquid Spray 100 ml, 3 Count",
+      "id": "949",
+      "price": 150
+    }
+  ]
+}
